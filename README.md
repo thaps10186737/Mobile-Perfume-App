@@ -40,8 +40,7 @@ JDK 8 or higher
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/thaps10186737
-/Mobile-Perfume-App.git
+git clone https://github.com/thaps10186737/Mobile-Perfume-App.git
 
 Build and Run the App
 Open Android Studio.
@@ -96,6 +95,5 @@ For any questions or support, feel free to reach out to us at:
 
 Email: support@exclusiveperfumes.com
 Website: https://www.exclusiveperfumes.com
-GitHub: https://github.com/thaps10186737
-/Mobile-Perfume-App.git
+GitHub: https://github.com/thaps10186737/Mobile-Perfume-App.git
 
